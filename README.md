@@ -1,316 +1,187 @@
-# Emir Borovac
+<div align="center">
 
-## Founder & Lead Engineer @ RIPPLEIT LLC
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Emir%20Borovac&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Founder%20%26%20Lead%20Engineer%20%40%20RIPPLEIT%20LLC&descSize=20&descAlignY=75" width="100%"/>
 
-AI Engineer • Backend Architect • Data Engineer • Automation Specialist
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%E2%80%A2+Backend+Architect;Web+Scraping+%26+Reverse+Engineering+Specialist;Building+Production-Grade+AI+Systems;Founder+%40+RIPPLEIT+LLC" alt="Typing SVG" />
 
-Building production-grade AI systems, SaaS products, data pipelines, document intelligence platforms, and business automation systems.
+<br/>
 
----
+[![Website](https://img.shields.io/badge/rippleit--co.com-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rippleit-co.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0106e4824af49acd62)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emir-borovac-86a779256/)
+[![Email](https://img.shields.io/badge/Email-emirborovac%40rippleit--co.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirborovac@rippleit-co.com)
 
-# About Me
+<img src="https://komarev.com/ghpvc/?username=Emirborovac&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
-I'm a software engineer and founder focused on building products that replace manual business operations with scalable software.
-
-Over the years, I have designed and delivered production systems for law firms, SaaS companies, e-commerce businesses, content creators, agencies, and startups worldwide.
-
-My work spans:
-
-- Artificial Intelligence & LLM Applications
-- AI Agents & Workflow Automation
-- Retrieval-Augmented Generation (RAG)
-- Document Intelligence Systems
-- Backend Engineering
-- Data Engineering
-- Web Scraping Infrastructure
-- API Integrations
-- SaaS Development
-- Cloud Architecture
-
-I enjoy solving difficult technical problems and transforming ideas into products that create measurable business value.
+</div>
 
 ---
 
-# RIPPLEIT LLC
+## 🚀 About Me
 
-🌐 https://rippleit-co.com
+I'm a software engineer and founder focused on **replacing manual business operations with scalable software**. I've designed and shipped production systems for law firms, SaaS companies, e-commerce businesses, content creators, agencies, and startups worldwide.
 
-RippleIT LLC develops AI automation systems, production data pipelines, internal business tools, and custom software solutions that replace manual operations and improve efficiency.
-
-Core areas:
-
-- AI Automation
-- Data Engineering
-- SaaS Development
-- Workflow Automation
-- Document Intelligence
-- API Integrations
-- Web Scraping Infrastructure
-
-RippleIT delivers production-ready AI agents, data pipelines, and business automation systems across multiple industries. :contentReference[oaicite:0]{index=0}
+```python
+class EmirBorovac:
+    company   = "RIPPLEIT LLC (Founder & Lead Engineer)"
+    focus     = ["AI Agents & LLM Apps", "RAG & Document Intelligence",
+                 "Web Scraping Infrastructure", "Backend & Data Engineering",
+                 "SaaS Development", "Workflow Automation"]
+    delivered = "50+ production systems"
+    motto     = "If a human does it twice, software should do it forever."
+```
 
 ---
 
-# Products & Platforms
+## 🛠️ Tech Stack
 
-## LLC Assist
+### 🧠 AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Vector%20DBs-8A2BE2?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Multi--Agent%20Systems-00B4D8?style=for-the-badge)
 
-🌐 https://llc-assist.com
+### ⚙️ Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-Realtime-333333?style=for-the-badge)
 
-AI-powered IRS Form 5472 filing platform designed specifically for foreign-owned U.S. LLCs.
+### 🕷️ Scraping & Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Parsing-4B8BBE?style=for-the-badge)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-API%20Discovery-FF4500?style=for-the-badge)
+![Proxy Rotation](https://img.shields.io/badge/Proxies-Rotation%20%26%20Stealth-555555?style=for-the-badge)
 
-Features:
+### 💻 Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-- AI-assisted filing
-- Form 5472 automation
-- IRS submission workflows
-- Multi-language support
-- Automated compliance guidance
+### 🗄️ Data & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-Built to simplify complex IRS reporting requirements for international business owners. :contentReference[oaicite:1]{index=1}
-
----
-
-## GPTExpress
-
-🌐 https://gptexpress.net
-
-Unified AI platform providing access to multiple frontier AI models.
-
-Features:
-
-- GPT Models
-- Claude Models
-- Gemini Models
-- Image Generation
-- Audio Transcription
-- Voice Interaction
-- Pay-As-You-Go Billing
-
-Designed to provide users with access to the latest AI models through a single interface. :contentReference[oaicite:2]{index=2}
-
----
-
-## Bakimon
-
-🌐 https://bakimon.com
-
-AI-powered platform focused on automation, productivity, and intelligent business operations.
-
----
-
-## SameSky
-
-📱 https://apps.apple.com/tr/app/samesky/id6765894398
-
-Cross-platform mobile application available on the Apple App Store.
-
----
-
-# Featured Projects
-
-## AI Legal Intake & Case Management Platform
-
-Built a complete legal-tech automation platform for a German law firm.
-
-Features:
-
-- AI Chatbot Intake
-- Email Intake Processing
-- Automatic PDF Generation
-- AI Data Extraction
-- Kleos Integration
-- Automated Case Creation
-- Automated Document Upload
-- Administrative Dashboard
-- Workflow Automation
-
-Technologies:
-
-Python • FastAPI • PostgreSQL • Docker • OpenAI • REST APIs
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-## Texas Law Firm Lead Generation Platform
+## 🏢 Products & Platforms
 
-Designed and deployed an automated pipeline that:
-
-- Processes daily police reports
-- Extracts accident information
-- Identifies potential clients
-- Scores opportunities
-- Generates qualified leads
-- Delivers leads directly to intake teams
-
-Result:
-
-Significantly reduced manual lead research and created a scalable acquisition workflow.
+| Product | Description | Link |
+|---|---|---|
+| 🏛️ **LLC Assist** | AI-powered IRS Form 5472 filing platform for foreign-owned U.S. LLCs — AI-assisted filing, automated compliance, multi-language | [llc-assist.com](https://llc-assist.com) |
+| 🤖 **GPTExpress** | Unified AI platform — GPT, Claude & Gemini models, image generation, transcription, voice, pay-as-you-go billing | [gptexpress.net](https://gptexpress.net) |
+| ⚡ **Bakimon** | AI-powered automation & productivity platform for intelligent business operations | [bakimon.com](https://bakimon.com) |
+| 📱 **SameSky** | Cross-platform mobile app, live on the Apple App Store | [App Store](https://apps.apple.com/tr/app/samesky/id6765894398) |
+| 🌱 **BPM Turkey** | Enterprise sustainability & compliance platform — ESG reporting, risk management, audit workflows | [bpmturkey.com](http://bpmturkey.com/en) |
+| 📣 **Seedr** | Influencer marketplace — brand/influencer accounts, campaigns, messaging, analytics | [seedr.ca](https://seedr.ca) |
 
 ---
 
-## AI Document Intelligence Systems
+## 💼 Featured Work
 
-Developed production systems capable of:
+<details>
+<summary>⚖️ <b>AI Legal Intake & Case Management Platform</b> — German law firm</summary>
+<br/>
 
-- OCR Processing
-- PDF Extraction
-- Entity Recognition
-- Semantic Search
-- Knowledge Retrieval
-- AI Question Answering
-- Document Classification
-- Information Extraction
+AI chatbot & email intake → AI data extraction → automatic PDF generation → **Kleos** case creation & document upload, with an admin dashboard on top.
 
-Technologies:
+`Python` `FastAPI` `PostgreSQL` `Docker` `OpenAI` `REST APIs`
 
-OpenAI • Anthropic • LangChain • Vector Databases • Python
+</details>
 
----
+<details>
+<summary>🚔 <b>Texas Law Firm Lead Generation Pipeline</b></summary>
+<br/>
 
-## Large Scale Web Scraping Infrastructure
+Automated pipeline that processes daily police reports, extracts accident data, scores opportunities, and delivers qualified leads straight to intake teams — replacing hours of manual research daily.
 
-Built scraping systems for:
+`Python` `Scraping` `AI Extraction` `Lead Scoring` `Automation`
 
-- Social Media Platforms
-- E-Commerce Websites
-- Legal Data Sources
-- Public Records
-- Business Intelligence
+</details>
 
-Features:
+<details>
+<summary>📄 <b>AI Document Intelligence Systems</b></summary>
+<br/>
 
-- Browser Automation
-- CAPTCHA Handling
-- Proxy Rotation
-- API Discovery
-- Reverse Engineering
-- Data Pipelines
+Production OCR + PDF extraction, entity recognition, semantic search, document classification, and AI question-answering over knowledge bases.
 
-Millions of records processed across multiple industries.
+`OpenAI` `Anthropic` `LangChain` `Vector Databases` `Python`
 
----
+</details>
 
-## Seedr
+<details>
+<summary>🕷️ <b>Large-Scale Web Scraping Infrastructure</b></summary>
+<br/>
 
-🌐 https://seedr.ca
+Millions of records processed across social media, e-commerce, legal & public records — browser automation, CAPTCHA handling, proxy rotation, API discovery, and full reverse engineering (including Instagram's private APIs).
 
-Influencer Marketplace Platform
+`Playwright` `Selenium` `Reverse Engineering` `Proxies` `Data Pipelines`
 
-Features:
-
-- Brand Accounts
-- Influencer Accounts
-- Campaign Management
-- Messaging System
-- Analytics Dashboard
-- Marketplace Functionality
+</details>
 
 ---
 
-## BPM Turkey
+## 📊 GitHub Stats
 
-🌐 http://bpmturkey.com/en
+<div align="center">
 
-Enterprise Sustainability & Compliance Platform
+<img src="https://github-readme-stats.vercel.app/api?username=Emirborovac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emirborovac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages"/>
 
-Features:
+<img src="https://streak-stats.demolab.com?user=Emirborovac&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-- ESG Reporting
-- Risk Management
-- Audit Workflows
-- Compliance Tracking
-- Data Collection Systems
-- Executive Reporting
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emirborovac&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph"/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Emirborovac&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="100%" alt="Trophies"/>
 
-# Core Technologies
-
-## Artificial Intelligence
-
-- OpenAI
-- Anthropic
-- LangChain
-- AI Agents
-- RAG
-- Vector Databases
-- Prompt Engineering
-- NLP
-- Computer Vision
-
-## Backend
-
-- Python
-- FastAPI
-- Flask
-- Django
-- Node.js
-
-## Data
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-- SQLite
-
-## Cloud & Infrastructure
-
-- Docker
-- Kubernetes
-- AWS
-- Azure
-- Google Cloud
-- CI/CD
-- NGINX
-
-## Data Engineering
-
-- ETL Pipelines
-- Data Mining
-- Web Scraping
-- Browser Automation
-- API Integrations
+</div>
 
 ---
 
-# Selected Achievements
+## 🏆 Highlights
 
-- Delivered 50+ production software systems
-- Built multiple live SaaS products
-- Founded RIPPLEIT LLC
-- Developed AI-powered legal automation platforms
-- Engineered large-scale scraping infrastructure
-- Built AI document intelligence systems
-- Designed cloud-native backend platforms
-- Automated business workflows across multiple industries
+- 🚢 **50+ production systems** delivered across legal, SaaS, e-commerce & media
+- 🏢 Founder of **RIPPLEIT LLC** — AI automation, data pipelines & custom software
+- 🥇 **Top-rated freelancer** — near-perfect 5★ record on Upwork
+- 🧩 Multiple **live SaaS products** (LLC Assist, GPTExpress, Bakimon, SameSky)
+- 🔍 Reverse-engineered major platforms & built scraping infra handling **1M+ record backlogs**
 
 ---
 
-# Professional Profiles
+<div align="center">
 
-### Website
+### 💬 Let's build something
 
-https://rippleit-co.com
+[![Website](https://img.shields.io/badge/RIPPLEIT-rippleit--co.com-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rippleit-co.com)
+[![Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0106e4824af49acd62)
+[![Email](https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emirborovac@rippleit-co.com)
 
-### Upwork
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
 
-https://www.upwork.com/freelancers/~0106e4824af49acd62
-
-### LinkedIn
-
-https://www.linkedin.com/in/emir-borovac-86a779256/
-
-### GitHub
-
-https://github.com/Emirborovac
-
----
-
-# Contact
-
-📧 emirborovac@rippleit-co.com
-
-🌐 https://rippleit-co.com
-
-Founder & Lead Engineer @ RIPPLEIT LLC
+</div>
